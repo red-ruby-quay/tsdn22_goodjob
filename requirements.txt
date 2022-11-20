@@ -1,0 +1,8 @@
+streamlit
+datetime
+numpy
+pandas
+wordcloud
+Sastrawi
+matplotlib
+pillow
